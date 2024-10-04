@@ -16,11 +16,6 @@ body [xml|lang]{
 	hyphens: none;
 	-epub-hyphens: none;
 }
-
-[epub|type~="epigraph"] em,
-[epub|type~="epigraph"] i{
-	font-style: normal;
-}
 /* End all epigraphs */
 
 /* Full-page epigraphs */
@@ -50,10 +45,6 @@ section[epub|type~="epigraph"] > *{
 	section[epub|type~="epigraph"] > *{
 		margin: 0;
 	}
-
-	section[epub|type~="epigraph"] > * + *{
-		margin-top: 3em;
-	}
 }
 /* End full-page epigraphs */
 
@@ -73,5 +64,21 @@ footer{
 	text-align: initial;
 	text-indent: 0;
 }
-
 /* letters end */
+
+/* Verse begins */
+[epub|type~="z3998:verse"] p{
+	text-align: initial;
+	text-indent: 0;
+}
+
+[epub|type~="z3998:verse"] p > span{
+	display: block;
+	padding-left: 1em;
+	text-indent: -1em;
+}
+
+[epub|type~="z3998:verse"] p > span + br{
+	display: none;
+}
+/* verse ends */

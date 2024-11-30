@@ -2,8 +2,8 @@
 <package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">url:https://standardebooks.org/ebooks/r-d-blackmore/the-maid-of-sker</dc:identifier>
-		<dc:date>1900-01-01T00:00:00Z</dc:date>
-		<meta property="dcterms:modified">1900-01-01T00:00:00Z</meta>
+		<dc:date>2024-11-30T18:32:44Z</dc:date>
+		<meta property="dcterms:modified">2024-11-30T18:32:44Z</meta>
 		<dc:rights>The source text and artwork in this ebook are believed to be in the United States public domain; that is, they are believed to be free of copyright restrictions in the United States. They may still be copyrighted in other countries, so users located outside of the United States must check their local laws before using this ebook. The creators of, and contributors to, this ebook dedicate their contributions to the worldwide public domain via the terms in the [CC0 1.0 Universal Public Domain Dedication](https://creativecommons.org/publicdomain/zero/1.0/).</dc:rights>
 		<dc:publisher id="publisher">Standard Ebooks</dc:publisher>
 		<meta property="file-as" refines="#publisher">Standard Ebooks</meta>
@@ -38,17 +38,17 @@
 		<meta property="authority" refines="#subject-3">LCSH</meta>
 		<meta property="term" refines="#subject-3">sh85078595</meta>
 		<meta property="se:subject">Fiction</meta>
-		<dc:description id="description">An old Welsh fisherman spends years seeking to discover the true identity of a shipwrecked infant he has adopted.</dc:description>
+		<dc:description id="description">An old Welsh fisherman spends years seeking the true identity of a shipwrecked infant he has adopted.</dc:description>
 		<meta id="long-description" property="se:long-description" refines="#description">
-			&lt;p&gt;Having been invalided out of the British navy, Davy Llewellyn plies his trade as a fisherman on the south coast of Wales. Investigating the wreck of a boat during a wild storm, Davy discovers an infant girl whom he adopts. Her beauty and wit win a place in his heart that his own orphaned granddaughter cannot compete with. Llewellyn’s maritime activities also bring him to the Devonshire coast opposite his home where he becomes embroiled with a corrupt parson. Years pass, during which Davy finds himself once again enlisted into the navy and involved in many adventures, some of which edge him closer to finding out the truth of the “maid of Sker’s” identity—but it is almost twenty years before her full story is finally disclosed.&lt;/p&gt;
-			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/r-d-blackmore"&gt;R. D. Blackmore’s&lt;/a&gt; remarkable success with the publication of &lt;a href="https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone"&gt;&lt;i&gt;Lorna Doone&lt;/i&gt;&lt;/a&gt; created a market for more of his fiction. He had first written &lt;i&gt;The Maid of Sker&lt;/i&gt; years earlier, and it was his own favorite. Now he was able to re-draft it for serial publication. It shares much with &lt;i&gt;Lorna Doone&lt;/i&gt;: a historical setting, the late eighteenth century in the case of &lt;i&gt;The Maid of Sker&lt;/i&gt;, first-person narration from a key protagonist, and evocative local settings.&lt;/p&gt;
-			&lt;p&gt;Later readers have tended not to share Blackmore’s preference for &lt;i&gt;The Maid of Sker&lt;/i&gt; over his classic, &lt;i&gt;Lorna Doone&lt;/i&gt;. Still, for all that Davy Llewellyn is something of a rogue and a less reliable, or even likable, narrator than John Ridd, his story-telling has its own humor and charms, dramatic passages, and memorable moments.&lt;/p&gt;
+			&lt;p&gt;Having been invalided out of the British navy, Davy Llewellyn plies his trade as a fisherman on the south coast of Wales. Investigating the wreck of a boat during a wild storm, he discovers an infant girl—the eponymous “maid of Sker”—whom he adopts. Her beauty and wit win a place in his heart that his own orphaned granddaughter can’t compete with. Llewellyn’s maritime activities also bring him to the Devonshire coast opposite his home, where he becomes embroiled with a corrupt parson. Years pass, during which Davy finds himself once again enlisted into the navy and involved in many adventures, some of which edge him closer to finding out the truth of the maid of Sker’s identity—but it’s almost twenty years before her full story is finally revealed.&lt;/p&gt;
+			&lt;p&gt;&lt;a href="https://standardebooks.org/ebooks/r-d-blackmore"&gt;R. D. Blackmore&lt;/a&gt; had written &lt;i&gt;The Maid of Sker&lt;/i&gt; years before his most successful novel, &lt;a href="https://standardebooks.org/ebooks/r-d-blackmore/lorna-doone"&gt;&lt;i&gt;Lorna Doone&lt;/i&gt;&lt;/a&gt;, and it was his personal favorite. After the success of &lt;i&gt;Lorna Doone&lt;/i&gt; left the public wanting more of his fiction, he was able to re-draft &lt;i&gt;The Maid of Sker&lt;/i&gt; for serialization. It shares much with &lt;i&gt;Lorna Doone&lt;/i&gt;: a historical setting, first-person narration from a key protagonist, and evocative local environments.&lt;/p&gt;
+			&lt;p&gt;Later readers have tended not to share Blackmore’s preference for &lt;i&gt;The Maid of Sker&lt;/i&gt;; still, for all that Davy Llewellyn is something of a rogue and a less reliable, or even less likable, narrator than John Ridd, his storytelling has its own humor, charm, drama, and memorable moments.&lt;/p&gt;
 		</meta>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46156</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000393911</dc:source>
-		<meta property="se:word-count">WORD_COUNT</meta>
-		<meta property="se:reading-ease.flesch">READING_EASE</meta>
+		<meta property="se:word-count">213414</meta>
+		<meta property="se:reading-ease.flesch">70.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Maid_of_Sker</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-d-blackmore_the-maid-of-sker</meta>
 		<dc:creator id="author">R. D. Blackmore</dc:creator>
@@ -82,6 +82,10 @@
 		<meta property="role" refines="#producer-1" scheme="marc:relators">mrk</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">pfr</meta>
 		<meta property="role" refines="#producer-1" scheme="marc:relators">tyg</meta>
+		<dc:contributor id="producer-2">Alex Cabal</dc:contributor>
+		<meta property="file-as" refines="#producer-2">Cabal, Alex</meta>
+		<meta property="se:url.homepage" refines="#producer-2">https://alexcabal.com</meta>
+		<meta property="role" refines="#producer-2" scheme="marc:relators">pfr</meta>
 	</metadata>
 	<manifest>
 		<item href="css/core.css" id="core.css" media-type="text/css"/>

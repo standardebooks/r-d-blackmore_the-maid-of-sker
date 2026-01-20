@@ -48,7 +48,7 @@
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/46156</dc:source>
 		<dc:source>https://catalog.hathitrust.org/Record/000393911</dc:source>
-		<meta property="se:word-count">213414</meta>
+		<meta property="se:word-count">212548</meta>
 		<meta property="se:reading-ease.flesch">70.57</meta>
 		<meta property="se:url.encyclopedia.wikipedia">https://en.wikipedia.org/wiki/The_Maid_of_Sker</meta>
 		<meta property="se:url.vcs.github">https://github.com/standardebooks/r-d-blackmore_the-maid-of-sker</meta>

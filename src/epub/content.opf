@@ -71,6 +71,7 @@
 		<meta property="file-as" refines="#transcriber-1">Grammel, Matthias</meta>
 		<meta property="role" refines="#transcriber-1" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-2">sp1nd</dc:contributor>
+		<meta property="file-as" refines="#transcriber-2">sp1nd</meta>
 		<meta property="role" refines="#transcriber-2" scheme="marc:relators">trc</meta>
 		<dc:contributor id="transcriber-3">Distributed Proofreaders</dc:contributor>
 		<meta property="file-as" refines="#transcriber-3">Distributed Proofreaders</meta>
